@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="24_07_18_복습자료" id="AD91C928-9725-E959-60EA-795F27BA4CD9" version="3.5">
+<createdBy>user1</createdBy>
+<createdTime>2024-07-18 00:23:41 UTC</createdTime>
+<ownerDesignName>24_07_18_복습자료</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>AD91C928-9725-E959-60EA-795F27BA4CD9</designId>
+</OSDM_Design>
